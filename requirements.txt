@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+duckduckgo-search
+nltk
+spacy
+pandas
+plotly
+matplotlib
+google-generativeai
+psycopg2
+sqlalchemy
+python-dotenv
